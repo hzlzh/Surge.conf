@@ -1,7 +1,11 @@
 # Surge.conf
 
+https://raw.githubusercontent.com/hzlzh/Surge.conf/master/surge-HTTP-Proxy.conf
+
+````
 Change it to your HTTP proxy IP + Port
 MyHTTPProxy = http,xxx.xxx.xxx,123456
+````
 
 [知乎传送门](http://www.zhihu.com/question/36515662/answer/69435567)
 
