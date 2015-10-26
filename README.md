@@ -1,10 +1,10 @@
 # Surge.conf
 
-HTTP 代理规则：  
+HTTP 配置：  
 `https://raw.githubusercontent.com/hzlzh/Surge.conf/master/surge-HTTP-Proxy.conf`
 
-Shadowsocks 配置模块：  
-`http://proxy.sofi.sh/`
+Shadowsocks 配置：  
+http://proxy.sofi.sh/
 
 ````
 App 内下载后，手动替换成自己的代理服务即可，如：
