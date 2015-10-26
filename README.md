@@ -1,6 +1,10 @@
 # Surge.conf
 
-https://raw.githubusercontent.com/hzlzh/Surge.conf/master/surge-HTTP-Proxy.conf
+HTTP 代理规则：  
+`https://raw.githubusercontent.com/hzlzh/Surge.conf/master/surge-HTTP-Proxy.conf`
+
+Shadowsocks 配置模块：  
+`http://proxy.sofi.sh/`
 
 ````
 Change it to your HTTP proxy IP + Port
