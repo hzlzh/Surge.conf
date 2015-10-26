@@ -7,7 +7,7 @@ Shadowsocks 配置模块：
 `http://proxy.sofi.sh/`
 
 ````
-Change it to your HTTP proxy IP + Port
+App 内下载后，手动替换成自己的代理服务即可，如：
 MyHTTPProxy = http,xxx.xxx.xxx,123456
 ````
 
