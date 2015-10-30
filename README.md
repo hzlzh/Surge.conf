@@ -6,6 +6,9 @@ HTTP 配置：
 Shadowsocks 配置：  
 http://proxy.sofi.sh/
 
+Surge 论坛：  
+https://surge.tips/
+
 ````
 App 内下载后，手动替换成自己的代理服务即可，如：
 MyHTTPProxy = http,xxx.xxx.xxx,123456
