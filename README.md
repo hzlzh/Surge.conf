@@ -11,6 +11,7 @@ MyHTTPProxy = http,xxx.xxx.xxx,123456
 附：[知乎讨论传送门](http://www.zhihu.com/question/36515662/answer/69435567)（已被删除）  
 知乎备份：  
 http://ww1.sinaimg.cn/large/644eac00gw1exfon1o67bj214m1mewvi.jpg
+https://www.evernote.com/l/AK1eUUPDgZ9Ma4X3j9PWLB-8ouGJQ6cwc-c
 
 ## 扩展阅读
 Shadowsocks 配置：  
